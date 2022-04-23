@@ -1,6 +1,5 @@
 # DioPrimeiroProjeto
 ## ESTUDOS EM .NET:
-
     ### 1 - Introdução ao Git/GitHub;
 
     ### 2 - Gestao de Projetos e SCRUM:
